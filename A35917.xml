@@ -1,0 +1,1172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Dialogue betwixt Sam. the ferriman of Dochet, Will. a waterman of London, and Tom. a bargeman of Oxford upon the Kings calling a parliament to meet at Oxford.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 73 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35917</idno>
+            <idno type="STC">Wing D1353</idno>
+            <idno type="STC">ESTC R29722</idno>
+            <idno type="EEBO-CITATION">11196647</idno>
+            <idno type="OCLC">ocm 11196647</idno>
+            <idno type="VID">46690</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35917)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46690)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1439:50)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Dialogue betwixt Sam. the ferriman of Dochet, Will. a waterman of London, and Tom. a bargeman of Oxford upon the Kings calling a parliament to meet at Oxford.</title>
+               </titleStmt>
+               <extent>31 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, printed :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46690:1"/>
+            <pb facs="tcp:46690:1"/>
+            <p>A DIALOGUE Betwixt <hi>SAM.</hi> The Ferriman of <hi>Dochet, WILL.</hi> A Waterman of <hi>London,</hi> And <hi>TOM.</hi> A Bargeman of <hi>Oxford.</hi>
+            </p>
+            <p>UPON The KINGS Calling A PARLIAMENT To meet at <hi>OXFORD.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1681.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:46690:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:46690:2"/>
+            <head>A Dialogue, &amp;c.</head>
+            <div type="dialogue">
+               <sp>
+                  <speaker>SAM.</speaker>
+                  <p>How now <hi>Will.</hi> how comes this kindneſs betwixt thee and <hi>Tom.</hi> the Barge-man? laſt time I ſaw you toge<g ref="char:EOLhyphen"/>ther at <hi>Dochet,</hi> you were for heaving Stones at one an<g ref="char:EOLhyphen"/>others heads.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>O, that's long ſince, and utterly forgot; we are now good Friends.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>God-a-mercy Horſe, this Rogue <hi>Will.</hi> was tugging up Stream whilſt his Oars were ready to break at <hi>Way-bridge,</hi> and ſeeing us come up with three good Horſes Towing our Punt, his Stomach came down, and he begg'd moſt devoutly to give him a Tow to <hi>Windſor;</hi> not a word of the Bell-Wether, or any of his uſual Complements. I took mercy on the poor Rogue, and let him faſten his Wherry to us, and I think in my heart the Whelp has eaten us half a Stone of Beef to day.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>Upon the honeſt word of a Waterman, <hi>Tom.</hi> I never eat daintier Beef in my Life, nor better Muſtard, but not one mouth<g ref="char:EOLhyphen"/>ful of Mutton was to be ſeen.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>Sirrah, one word more of Mutton and off you go; you cannot forbear your Roguery.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>But pray thee, <hi>Will.</hi> whither art thou making at this Time of the year?</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>Why, faith <hi>Sam,</hi> thou knoweſt I follow the Court for the moſt part, and now I am going before it, and intend to get a good <hi>Birth</hi> at <hi>Oxford:</hi> Acquaintance is a main matter with a Waterman: beſides, here's honeſt <hi>Tom.</hi> promiſes me Lodging at his Houſe; and when he goes for <hi>London,</hi> his Wife and I can
+<pb n="4" facs="tcp:46690:3"/>make as merry as if he were gone an <hi>Eaſt-India</hi> Voyage.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>But, I hope, there will be another Voyage found out, they ſay the King will make us a way Weſt-ward to <hi>Briſtol</hi> for our Barges, and has ſent for <hi>Dutchmen</hi> that can make Boats go by Land as well as by Water, and then <hi>Briſtol</hi> will be <hi>London.</hi> The ſaucy Rogues t'other day at <hi>Qucen-Hith</hi> were ready to Brain us, and threatned to fire the Barges, becauſe we belonged to <hi>Oxford.</hi> If the King would take my Counſel, he ſhould come no more a<g ref="char:EOLhyphen"/>mongſt them for one ſeven years, I would make the proud Rogues know themſelves better.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>I am not for that, <hi>Tom</hi> neither, for that would quite ſpoyl our Ferry: when all's done <hi>London</hi> is <hi>London.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>And will be <hi>London,</hi> that is, a Neſt of unthankful Rogues that hate us Country Gentlemen, tho' they get all they have by us: What would <hi>London</hi> be worth, if it were not for the Coun<g ref="char:EOLhyphen"/>try? And faith, ſince all the wealth of the Country is gotten thi<g ref="char:EOLhyphen"/>ther by the Kings living ſo long amongſt them, I hope His Ma<g ref="char:EOLhyphen"/>jeſty will even now live in the Country till their Money be brought into the Country again.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>I could agree well enough to all thou ſay'ſt, but only for this <hi>Ferry,</hi> and that would quite be ruin'd if the King ſhould leave <hi>London.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>For that, if the <hi>Dutchmen</hi> come, they will dig ſo many Cuts to make the <hi>Thames</hi> run from our Town to <hi>Briſtol,</hi> I warrant thee, thou may'ſt get a New <hi>Ferry,</hi> and better than this, upon ſome of thoſe New Cuts.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>But do'ſt think the King will keep his Court at <hi>Oxford</hi> any long time? I heard our Parſon ſay, for all this the Parlia<g ref="char:EOLhyphen"/>ment would not be held at <hi>Oxford,</hi> becauſe there was a Parlia<g ref="char:EOLhyphen"/>ment once held there, and it was called the mad Parliament.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>Thou may'ſt tell the Parſon from me, that there has been many Parliaments held at <hi>London,</hi> that have been worſe than mad; and it's well if this laſt was not the madeſt that ever was yet.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>I muſt confeſs there was a ſtrange Touſe whilſt they were Sitting: Our Townſmen of <hi>Windſor</hi> would have talked ſo of the brave Acts they were a making, and what good they would have done to the Commonalty, and how they would have handled the Courtiers, and abundance more than I can remember. Thou
+<pb n="5" facs="tcp:46690:3"/>wouldſt have admired, but to ſay Truth, this Town of <hi>Windſor,</hi> though they be our Neighbours, is as Roguiſh a place as any is in <hi>England.</hi> If I were worth to adviſe the King, I would make a great Wall betwixt the Caſtle and the Town, that ſhould reach down to the River on the one ſide, and down to <hi>Old Windſor</hi> on the other ſide, and never a Gate through it, but for the Kings conveniency to go a Hunting into the great Park, or the Duke into the Forreſt, and ſhut at all other times. Then would I build a New Town to entertain the Kings Court, ſhould reach to the <hi>Ferry.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>Still, ſtill this <hi>Ferry</hi> is the Burden of the Song,</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>But prethee <hi>Will</hi> tell us what this Parliament would have done for the good of the Commonalty that is talked on ſo much; thou carriedſt Parliament-men in thy Boat every day, and I know thou haſt heard all their Speeches; I have heard them make Speeches as they have paſs'd over here at our Ferry-Boat.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>Thou art in the right of that, for there is not one Mem<g ref="char:EOLhyphen"/>ber (for ſo we call them at <hi>London</hi>) of forty, but they are ſtill making Speeches: I heard one of them make a Speech to Deaf <hi>Hugh,</hi> an old Sculler, from <hi>Weſtminſter Stairs</hi> to the <hi>Temple. Hugh</hi> nodded at him now and then, and he went on as Policitly as if he vad been in the Houſe all the while. When they landed at the <hi>Temple,</hi> where I alſo landed my Fair, he bid <hi>Hugh</hi> give him three pence, but wanting Change, he asked me for three pence, but I having ne're a three pence, ſayes the Member to <hi>Hugh,</hi> I ſee thou art a right Engliſh man, a good Proteſtant, and, I dare ſay, hates the Popiſh Succeſſor with all thy heart, and therefore I will give thee the whole Six pence.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>'Twas well he had the Wit to Nod at him, being a could not hear him.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>So it was, and that was enough, for I dare ſay, a Nod now and then, would have continued the Speech to <hi>Graveſend.</hi> O, our Water-men have thouſands ſuch Stories as theſe of their Worſhips, they were for the moſt part ſo full of it, they could not hold it in.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>But prethee <hi>Will.</hi> tell us what thou heard'ſt they did in the Houſe as well as out.</p>
+               </sp>
+               <pb n="6" facs="tcp:46690:4"/>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>Well, in the firſt place they kept a <hi>Rehearſal</hi> at the <hi>Sun Tavern</hi> on the back of the <hi>Exchange</hi> a long time before they ſate.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>A <hi>Rehearſal!</hi> what's that?</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>Why, as the Players Rehearſe or Act over the Play in the Morning, which they intend to Play in the Afternoon: So, did they make their Speeches, and ſet all their Matters in order in the Tavern, before they met in the Houſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>Methinks, if it were needful for a Parliament to have ſuch a Rehearſing, his Majeſty ſhould provide them a place to rehearſe in: It is not very handſome in my mind, that the matters which concern his Majeſty and the Kingdom ſhould be medled with in a Tavern.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>It's very true: but the Maſter of the Houſe, he got well by them; and the Drawers of that Houſe are become notable Boyes, they can talk of State Affairs, it would do your Heart good to hear them: and for any thing that I know, when theſe Boyes come to ſet up for themſelves, and keep Taverns in the City, they may be the fitteſt men they will have to ſerve in Par<g ref="char:EOLhyphen"/>liament: they will now, as young as they are, make fine Speeches to their fellow Prentices, when any Rout of them meets together, and have their Leſſons full ready on any occaſion; and will <hi>back a Petition of the Common Hall to the Purpoſe.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>A Pox on 'em, 'tis ſuch work as this that makes the King leave <hi>London,</hi> and will undo us all at <hi>Dochet:</hi> But this is all ſtill out of the Houſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>It is impoſſible I ſhould tell you a tenth part of what they did in the Houſe: but the remembrance of Men and Things they fell upon will put me in mind beſt; and therefore the firſt I think on, is the Kings Majeſty, God bleſs him, him they cryed <hi>Nochell.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>What, as <hi>Gaffer Block</hi> of our Town cryed his Wife?</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>I don't know what he did, but they Voted that no body ſhould either Borrow or Lend, nor Sell or Buy with him under pain of their Diſpleaſure.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>This is almoſt as ill as the Parſon ſaid of the <hi>Gun-Powder-Treaſon-day,</hi> that the Pope would have done with Queen <hi>Eliza<g ref="char:EOLhyphen"/>beth,</hi> for he forbade any Body to Borrow or Lend with her, Sell
+<pb n="7" facs="tcp:46690:4"/>or Buy, Eat or Drink; Nay, he forbid her to come in either Church or Market.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>But then to make him amends, they took care to kill him an Old Lean Lord at <hi>Chriſtmaſs;</hi> and that's all I remember they have done for him ſince they met.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>What did they then do?</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>Next they took the Duke into handling.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>And what would they do with him?</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>They would have taken away his <hi>Birthright,</hi> whatever he had done to them I know not, but they were reſolv'd to have worried him.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>What was it provoked them ſo much againſt him?</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>They ſaid he was a <hi>Papiſt,</hi> and was for the Pope and the Plot; but the Truth on't is, I think the true Reaſon of their Cruelty was, becauſe he put his Brother in mind who were, and had been Rogues, and were ſure to prove ſo in the end: and for this they would never forgive him; and with talking with one another, they were got to that paſs, they matter'd not what they ſaid; for they were permitted ſo long, they thought no body durſt gainſay them.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>Why, I thought no man living durſt have medled with any of the Blood Royal.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>Thou art a Fool, did not they behead the laſt King, and kept this baniſhed a long time? and all that was ſtill a Houſe of Commons.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>What would they have done with the Duke thinkeſt thou?</p>
+               </sp>
+               <sp>
+                  <speaker>VVill.</speaker>
+                  <p>Hang'd him if they could have catch't him, but-being he was out of their reach, have taken away all his means, and all he was ever like to have, if (which God forbid) he ſhould have ſurviv'd the King.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>They were very bold.</p>
+               </sp>
+               <sp>
+                  <speaker>VVill.</speaker>
+                  <p>Thou may'ſt ſwear that; when the Fore-man of Old <hi>Townſend</hi>'s Shop, a blind Scrivener was ſo bold as to ſpeak a ſaucy Speech againſt his Highneſs.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>What was he, a Prentice?</p>
+               </sp>
+               <sp>
+                  <speaker>VVill.</speaker>
+                  <p>No, he was out of his Time, and had ſet up for him<g ref="char:EOLhyphen"/>ſelf.</p>
+               </sp>
+               <pb n="8" facs="tcp:46690:5"/>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>Why, I thought no ſuch Hand-crafts men had ever been choſen Members.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>Any body that has money to pay for Drink, Gentle or Simple that will ſpend his Guinneys upon ſome Town in the <hi>Weſt Country</hi> is good enough: for I'le tell thee, as I heard Squire <hi>Kites</hi> Huntſman ſay, that he cared not for above three or four Couple of Hunting Dogs amongſt twenty Couple, ſo they would give their Tongues and go along with thoſe that were Hunters; no more do they in the Parliament care whether the greateſt part of their Members have any Wit, or none at all, ſo that they will Vote with the Old ones.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>Well, though it was ſore againſt my will, I was Preſs'd once into the Service when the Duke was our Ambral, and I dare ſwear never a man in the Fleet had a better Heart than he.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>Pox on you Rogue, you ſtaid but one Bout and run away; but we that ſtaid and were in both the <hi>Hollands</hi> Wars, know the Duke well enough; and let them do what they will at <hi>Weſtminſter,</hi> I am ſure all the Seamen and Watermen in <hi>England</hi> will be for him againſt any Body but the King, God bleſs him.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>And I am ſure he'll never be a Rebel, as many of thoſe that are his Enemies have been.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>Rebel! they would like him better if he would ſtand in the Kings Face and do what he pleaſed, whether the King pleaſed or not; do'ſt not ſee how they love <hi>D. M.</hi> for coming home whether the King would or no.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>Well, I hope to ſee the Duke at <hi>Oxford,</hi> and there he will be welcome, I dare ſay, let <hi>London</hi> and the Devil ſay what they will.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>For <hi>London,</hi> ſurely it is not <hi>London</hi> that does all theſe ill things you talk of.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>Thou art in the right of that, for I never heard that the Houſes met together to Petition or raiſe Tumults, there's no fault in the place; 'tis ſome roguiſh People that lives in it, whom no<g ref="char:EOLhyphen"/>thing vvill ever make better Subjects than they have been: I have knovvn them long enough.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>But prethee <hi>Will,</hi> go on vvith thy Story.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>Novv I think on't, I ſhould have told you, that I am novv going to ſay, firſt of all, that is, vvhat they vvould have
+<pb n="9" facs="tcp:46690:5"/>done about the Church; for I have heard the Church ſhould take place of both the King and the Duke.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>Ay, but not of the Law, for I know a Wiſe man as any in <hi>Buckinghamſhire,</hi> an Attorney, that ſays, That the Law was above both Church and King.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>Why then, according to that Rule, I ſhould firſt have begun with the Law.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>No matter, amongſt us we are not ſo punctual, go on, now thy hand is in, with the Church.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>As for the Church, I carried a Member up to <hi>Putney,</hi> and he told me, they had reſolv'd to Overhall all the Nine and Thir<g ref="char:EOLhyphen"/>ty <hi>Conditions</hi> of the Church, and that they had already heaved away Three and a half of them.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>Belike, if they had gone on, they would have hove away moſt of them; Three and a half in one day was a great ſtep.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>No, I do'nt believe they would have hove them all away, but they would quite have new moulded them ſo, that one ſhould ſcarce have known them. Ha'nt I ſeen an old Ship that has been a long time at Sea, when ſhe has been in the Dock, her Rigging Overhall'd and Tarr'd, new Painted, Carved and Guilt, a man that has ſayled in her, could ſcarce have known her.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>Thou art in the right of that, and I do believe that the Church was grown very old and much decay'd, and had need of repairing, and it will never be done but by a Parliament. I was at <hi>
+                        <g ref="char:V">Ʋ</g>xbridge</hi> laſt Saboath-day, and there at the Meeting the Mini<g ref="char:EOLhyphen"/>ſter ſaid, That the beſt Church in the World ſhould be repaired once in a hundred years; and that the Church we now have, was repaired (but he had another Word for it) about a Hundred and Forty or Fifty years ſince.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>Was it not <hi>Reformed?</hi> the Scholars at <hi>Oxford</hi> talk much of that <hi>Reformation.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>Ay, Ay, it was <hi>Reformed,</hi> that he ſaid; and that the Church (but more eſpeclally the Church-men) ſhould be Re<g ref="char:EOLhyphen"/>form'd.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>Beſides, this Member told me, the Parſons muſt uſe the <hi>Surplice</hi> no more.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>That was only for the good of the <hi>Woollen Manufacture.</hi> I carried a Clothier over the Ferry not long ſince, that ſaid they were
+<pb n="10" facs="tcp:46690:6"/>hereafter to wear <hi>Flannel</hi> Surplices, and the Biſhops were to wear white <hi>Crape,</hi> in ſtead of Lawn Sleeves.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>And then for the Biſhops Courts, that as we call the Bawdy-Court, they would have mauled thoſe Rogues to ſome purpoſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>A Pox on 'em, they made me pay above five Pounds about a Baſtard, a Whore laid to me, that a Scholar of <hi>Oxford</hi> got, I dare ſay; for I kept reckning and the Child was got when I was gone down with the Barge to <hi>London;</hi> and for want of a Flaſh, we lay above ten Weeks before we came again.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>It ſeems thou diſerved'ſt for it however.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>That which troubled me moſt, was, that I muſt have done Penance in a White Sheet, and then my Wife and all my Friends would have known it; and ſo faith, I was forced to borrow the Moneys, and make my Peace with them: And after all, they would have had Ten Shillings more for a piece of Parch<g ref="char:EOLhyphen"/>ment no bigger than my Hand: I was e'en glad to pay them a Noble to get clear of them.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>As far as I could underſtand, they would have taken theſe Courts away, and have made the Biſhops ſpoor Gentle<g ref="char:EOLhyphen"/>men: They would have clipt their Wings, if not quite ſtaved them. O this Member, as we paſſed by <hi>Lambath-Houſe,</hi> ſhaked his Head at it, and ſaid, There were Raggs of Popery kept there; and ſo did he at <hi>Eulhum,</hi> when I landed him at <hi>Put<g ref="char:EOLhyphen"/>ney.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>What did he mean by that?</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>Why the Arch-Biſhop of <hi>Canterbury</hi> lives at <hi>Lambeth,</hi> and the Biſhop of <hi>London</hi> hath a Countrey-Houſe at <hi>Fulham.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>Well, but <hi>Will.</hi> Thou ſaid'ſt, they would alſo have had a Fling at the Law.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>For any thing of the Law it ſelf, I heard not ſo much of it; but they were in hand, to have rockoned with almoſt all the <hi>Judges</hi> in <hi>Weſtminſter Hall,</hi> ſome for one Fault, and ſome for others.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>What had the Judges done?</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>Whether they had ſtrained a Pin, to do ſomething ex<g ref="char:EOLhyphen"/>traordinary for the King and the Court, I know not; but the main matter was, that moſt of the Talkative Men of the Houſe,
+<pb n="11" facs="tcp:46690:6"/>were Lawyers, and the only way for them to get Preferment, was by turning out of the <hi>Judges,</hi> that they might get into their Places.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>I think in my very Conſcience, theſe Lawyers are the Bain of the Kingdom: For they are ſo accuſtomed to talk againſt their Conſciences for Moneys, at <hi>Weſtminſter Hall;</hi> that when they come to talk in the Houſe, it is the ſame thing: So that whatever they think for their Advantage, they never want broad Conſciences, nor ſmooth Tongues, to drive on to the ut<g ref="char:EOLhyphen"/>moſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>Pray thee <hi>Will.</hi> tell me one thing, are not theſe Law<g ref="char:EOLhyphen"/>yers the Men, that either doe, or ſhould underſtand the Law?</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>No doubt of it.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>Well then, when the Rebellion was begun, and carried on in our King's Father's Time, and in his own, did not the Lawyers know, that the War was contrary to the Law?</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>Certainly they did.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>Then do I ſay, That as many Lawyers as Sided with the Rebells in thoſe days, deſerve yet to be Hanged for what they did then.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>O! but they were wiſe enough for that: For they got the Act of Oblivion, to pardon, not only their Faults by-paſ<g ref="char:EOLhyphen"/>ſed, but thoſe that were to come; and abundance of thoſe ve<g ref="char:EOLhyphen"/>ry Men that talked the People into that Rebellion, are yet liv<g ref="char:EOLhyphen"/>ing, and as willing to do Miſchief, as ever they were.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>It goes beyond my Underſtanding, how, and why they are admitted to abuſe the People at this rate: For if they can ſet poor ignorant Men on a Miſchief, for which they may be Hang<g ref="char:EOLhyphen"/>ed, and can talk themſelves off again, it is time for poor men to have a Care.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>I am of this mind, that had I been the King's Adviſar, when he forgave all the Rebells, I would not have forgiven one Lawyer; for they could not plead Ignorance.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>And that it was a Rebellion is clear: For if it had not been, what need was there of an Act of <hi>Oblivion?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>Thou art in the Right of that too.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>Nothing troubles me ſo much, as that theſe Lawyers, are not only Lawyers to follow and maintain the Law; but
+<pb n="12" facs="tcp:46690:7"/>they can make what they will to be Law, and what they like not to be no Law: Nay, they will hang the Honeſteſt man in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and find Law for it; and ſave the greateſt Knave, and find Law for that too.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>Did not Judge <hi>Bradſhaw</hi> pronounce Sentence againſt <hi>King Charles,</hi> and <hi>Coke</hi> plead againſt him? And both theſe were great Lawyers: Nay, an a bungling Lawyer, that is a Juſtice of the Peace, at the Quarter Seſſions, will take upon him to talk more than all the Bench, and be very angry at any Juſtice that dares oppoſe any thing he ſays.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>There is reaſon for that: For there is not one Lawyer of twenty, but is certainly bribed (tho' they call it feed) of one Party in all Controverſies, at the Seſſions, and frequently by both. O they make great Gains at a Seſſions; for there they are both <hi>Judge</hi> and <hi>Lawyer.</hi> and all goes as they will.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>I'll tell thee, for that I had a wrangling Quarrel once with a Drunken Fellow at the Ferry; and upon ſome Words, I up with the Boat-hook, and broke his Head. He went and fetched a Warrant for me: I was adviſed to go my ſelf to the ſame Juſtice, being a Lawyer, and bind my ſelf over: Which I did, and would have given his Worſhip an Angel; for ſo my Friend adviſed me: He ſaid, he would take no Moneys upon that Account: For indeed, it ſeemed, he had taken before from my Adverſary; but he ſaid, if I would give any thing to his Wife, I might: Upon which, I ſent a ſat Wether, worth a Mark, in the Night time to her Worſhip; and within two days, both he and I were ſent for, before Mr. Juſtice; and after he had talked a great deal of Law, and ſeemed angry with us both, he made us good friends, and got both our Moneys.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>There may a thouſand Stories be told of them: I hope at one time, both the King and the Kingdom will ſee what they are, and never let them have more to do, than with matters of Law; and then thoſe that employ them may take the monds in their own Hands, as I do, when I go to the Alehouſe: for all miſchief principally comes from them.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>A Pox and Plague light on 'em, they will never be quelled: For they have always either one or other great Law<g ref="char:EOLhyphen"/>yer in Power with the King, and that keeps them up: So let us
+<pb n="13" facs="tcp:46690:7"/>talk no more of them. What did the Parliament next fall up<g ref="char:EOLhyphen"/>on, honeſt <hi>Will.</hi> thou haſt a pure Memory?</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>They would have baniſhed a plain bundance of Courti<g ref="char:EOLhyphen"/>ers and Privy-Counſellors; and without any more ado, ſent to the King to deſire him (they called it Humbly) to turn them out of his Service.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>But did they tell any good Cauſe, why they would have him turn them away?</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>None at all, but becauſe they liked them not.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>That was an humble Trick indeed; but ſure they had ſome Reaſon for what they did.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>For no reaſon, but becauſe they were in Favor with the King, and themſelves would have their Places: Nay, there be ſome of thoſe men they complained of, were as ready to complain of thoſe were in place before, ſuch as the laſt Treaſurer, and the like, as theſe are now againſt thoſe they would have now turned off: for in all this Parliament-Doings, and Peaching one ano<g ref="char:EOLhyphen"/>ther, it is not for Faults done againſt the King, or the Govern<g ref="char:EOLhyphen"/>ment, but againſt the Houſe of Commons.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>But I hope theſe Noble Men are not turned out of their Services, are they?</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>No, they have ſcaped this Bout; how they will do at the next at <hi>Oxford,</hi> time will ſhew.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>If they ſcaped at <hi>London,</hi> I'll warrant them at <hi>Oxford,</hi> no man is Gondemned there, but he has (as the Scholars call it) <hi>pro</hi> and <hi>con</hi> for it: But vvas that all their Faults, that they vvere in Favor vvith His Majeſty?</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>God help thee, do'ſt not thou knovv, that it is a ſuffiicent Parliament-Crime to be a Favorite. I have heard my Father ſay, that he wore the Old Duke of <hi>Buckingham</hi>'s Cloth, and was Maſter of his Barge; and that there was one Parliament before I was born, would have hanged him; but the Devil a Fault could they find, but his being in mighty Favor. So the King would not let him ſuffer.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>But they put away my Lord <hi>Strafford,</hi> I can remember, that my ſelf, and they ſay, becauſe they could find no Law to con<g ref="char:EOLhyphen"/>demn him, they made a Law.</p>
+               </sp>
+               <pb n="14" facs="tcp:46690:8"/>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>So then, he ſuffered for breaking a Law before it was made.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>So he did.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>That is as much as to ſay, that if the Parliament have mind to hang a Man, or undo him, if they have not ſufficient Law or Matter to do it, they will make ſome: God bleſs me and mine out of their Clutches.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>But I have heard, they were ſo Civil, as when they made this Law againſt the Earl of <hi>Strafford,</hi> they then made it ſo, that no more ſhould ſuffer by the ſame Law.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>That was very kindly done to him indeed: I would rather, if I had been in his Cloaths, they would have ſaved me, and hanged who they would beſide.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>This ſhews plainly they had a particular Malice; and then down a muſt go, right or wrong: There are ſome of thoſe Old Dogs yet alive that hunted him to Death, and would as willingly give their Mouth for making away more Noble<g ref="char:EOLhyphen"/>men.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>I have heard many ſay, the King repented himſelf at <hi>Oxford,</hi> that he conſented to the Earl's Death.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>But thoſe Rogues that procured his Death, never re<g ref="char:EOLhyphen"/>pented at all, nor does not do yet: Nay, they have tought ſome young Whelps to be as good Blood-Hounds as themſelves. A Man has a brave time that ſhould come to be tryed for his Life in any Court, and have half a dozen of theſe to chaſe him out of the World.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>'Tis ſtrange the Noble-men does not ſtand for one ano<g ref="char:EOLhyphen"/>ther againſt thoſe Lawyers, who, if they might have their Wills, would hang them all: Eſpecially, being there is no body of the Jury, when the Lords are to be tryed, but Lords.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>They had ſuch a Power when my Lord <hi>Strafford</hi> was Headed, that neither the King, nor the Lords, durſt ſtand againſt them: They made Routs of Prentices to run down to <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter,</hi> and call out for Juſtice, and threaten all thoſe Lords that would have ſaved him; and in the end they had his Blood.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom,</speaker>
+                  <p>I have heard many ſay, that there were very few of thoſe many that proſecuted the Earl; but they were after Ring-leaders in the Rebellion againſt the King, and continued ſo to his Death,
+<pb n="15" facs="tcp:46690:8"/>as violent againſt him, as they were againſt the Earl, and againſt our King that now is (God bleſs him) till the Souldiers and Seamen joyned with <hi>Monk</hi> to bring him in again.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>And yet I'll warrant thee, theſe were as ready to wel<g ref="char:EOLhyphen"/>come Home his Majeſty, and make ſhew of their Duty and Af<g ref="char:EOLhyphen"/>fection to him, as his beſt Friends.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>Ay, and pretended they had as much a Hand in his Re<g ref="char:EOLhyphen"/>ſtoration, as the General that brought him in; and talked them<g ref="char:EOLhyphen"/>ſelves, not only out of the Faults they had committed; but by Bribery, and means of ſome Lawyers, that had been Abroad with the King, they got ſuddainly into ſuch Favor, that a Round-Headed Lawyer had more Power than a Cavalier Colo<g ref="char:EOLhyphen"/>nel that fought for the King all through the War: And ſo they have carried it ever ſince: And now thou may'ſt ſee what they have brought it unto, at long run: For nothing but the Ruine and Death of a great Number of the King's Courtiers and Coun<g ref="char:EOLhyphen"/>ſellors will pleaſe them.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>They will not ſtay there if they have leave to go on: The Old Game muſt be play'd over again; but I hope the King's calling them at our Town of <hi>Oxford,</hi> will mend this matter: For I have heard hundreds ſay, that if his Father had called the <hi>Rump</hi> Parliament thither, inſtead of <hi>Weſtminſter,</hi> there had not been ſo much Miſchief done as there was: But pray thee <hi>Will.</hi> was this all they did?</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>This, no, not the hundred part: For any one Man's Fault or Suſpicion, that he was againſt them, they would have ruin'd a whole Countrey. There was a <hi>Waelſh</hi> Noble-man, I know not his Name, that they had a Spite to, that was Steward of a great <hi>Wapentake</hi>-Court in <hi>Wales;</hi> and out of Malice to him, they would have taken that Court away, tho' it was a great Be<g ref="char:EOLhyphen"/>neſit to all that Quarter of the Country: Nay, there was one day a Member, ſo angry at a Waterman, for asking an unuſual Fare, for bringing him from ſome place, in the <hi>Weſt</hi>-Country, that he ſaid, he would have a Bill brought into the Houſe, for his ſake, to reſtrain the Numbers of Watermen; and that all the Wherries that go upon the River, ſhould be forced to take a Licence, and ſhould be Figured on the Back-Board, as the Hack<g ref="char:EOLhyphen"/>ney Coaches are. Upon which, the Waterman civilly reply'd,
+<pb n="16" facs="tcp:46690:9"/>That <hi>God bleſs the King,</hi> he hoped that being a Freeman of <hi>Wa<g ref="char:EOLhyphen"/>terman's Hall,</hi> they could never make him take a Licence: with that the Member ſaid, Sirra, for your ſake, and ſuch ſaw<g ref="char:EOLhyphen"/>cy Rogues as you are, we will have that <hi>Watermans-Hall</hi> pul<g ref="char:EOLhyphen"/>led down, as well as vve have pulled dovvn the Court of the <hi>Marſhes</hi> of <hi>VVales:</hi> That vvas the Court I vvas talking of.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>I hope thou heard'ſt them ſay nothing of the <hi>VVeſtern</hi> Barges <hi>VVill.</hi> did'ſt thou?</p>
+               </sp>
+               <sp>
+                  <speaker>VVill.</speaker>
+                  <p>No, Hang you, you are belovv their Conſideration; but they talked much about Seamen, and the Fleet, and againſt Souldiers: And then for the Papiſts, they vvould have utterly deſtroyed them; and no great matter if they had; for thoſe Rogues have been the occaſion of all this Poder, has been even ſince the Beginning of theſe Times: And they ſay, they Fired the City, and brought the Plague out of <hi>France,</hi> and ſet it a<g ref="char:EOLhyphen"/>mongſt us at <hi>London.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>How ſhould that be? For vvhen the Viſitation began at <hi>London,</hi> I heard of no Plague in <hi>France.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>VVill.</speaker>
+                  <p>But I heard a Doctor, one of the Royal Society, ſay, as I carried him once, There be Rogues that vvill bring Bottles of Infected Air vvith them, if it vvere out of <hi>Turkey,</hi> that as ſoon as they are opened, vvill infect a whole Houſe; then they take an Antilop, that no Infection can touch themſelves: And that ſome Papiſts did this, I have heard a Juſtice in the City took Examinations upon it, and it was proved.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>But what would they have done againſt the <hi>Presbyterians, Independants, Anabaptiſts,</hi> and <hi>Quakers:</hi> The Scholars at <hi>Oxford,</hi> ſay, thoſe are as great Enemies to the Church and the Univerſity as the Papiſts.</p>
+               </sp>
+               <sp>
+                  <speaker>VVill.</speaker>
+                  <p>They would have made them as good Proteſtants as any is in <hi>Oxford.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>Which way muſt this have been?</p>
+               </sp>
+               <sp>
+                  <speaker>VVill.</speaker>
+                  <p>Why, they would have made the Church-men have left out ſome of their Prayers, and given over the Surplice, and ſome other Popiſh Tricks; and then they would have come to Church, and been all one.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>That is, the Church-men muſt have become <hi>Presbyteri<g ref="char:EOLhyphen"/>ans,</hi> and then all would have been right.</p>
+               </sp>
+               <pb n="17" facs="tcp:46690:9"/>
+               <sp>
+                  <speaker>VVill.</speaker>
+                  <p>Indeed, I think they would not have yielded much to the Biſhops: For they were bloody mad at them; and I think if they had ſitten till now, they would have ſent them to the Church from the Houſe, to pray to God; but not to have letten them prate any more to the Houſe of Lords.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>It will be good for them to talk no ſuch Talk at <hi>Oxford,</hi> the Biſhops are in great Power amongſt the Scholars.</p>
+               </sp>
+               <sp>
+                  <speaker>VVill.</speaker>
+                  <p>Then as to their own Members, they turned them out, and took others in at their will and pleaſure; and if they made any Fault, they expelled them; and wherever any ſtood in Compe<g ref="char:EOLhyphen"/>tition for any Town, him they knew, would give his Vote along with them was admitted, right or wrong: And then they terrifi<g ref="char:EOLhyphen"/>ed all the Sherriffs, Mayors and Bailiffs in the Kingdom, beſides a<g ref="char:EOLhyphen"/>bundance of Gentlemen, and other honeſt Country-men: For on the leaſt Complaint of any Man's miſdemeanor, or Informa<g ref="char:EOLhyphen"/>tion from any Member, immediately a Serjeant at Arms was ſent for them, and ſo much a Mile, and Hour paid, and down on their Mary-bones to their Worſhips, and a ſound Scolding from Mr. Speaker; or elſe to the Tower, or the Gate-Houſe they went: The King, God bleſs him, never took a quarter of that State on him they did.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>It ſeems they would have all the World to ask them Forgiveneſs, whether they made them any Fault or not; and they themſelves would ask no body Pardon for what they had done.</p>
+               </sp>
+               <sp>
+                  <speaker>VVill.</speaker>
+                  <p>It was brought to that paſs, that two Foot-boys, Box<g ref="char:EOLhyphen"/>ing one day in the Palace Yard, he that was beaten, proved to belong to a Member, and told the other Boy, if he knew his Maſter, he would cauſe him to be ſent for in Cuſtody, for keep<g ref="char:EOLhyphen"/>ing ſuch a Rogue as he was, that had committed a Breach of Priviledge, in beating a Member's Servant. The Boy replied, if it would do him any Kindneſs, he would beat him again, and tell him his Maſter's Name into the Bargain; and would lay him a Crown, that tho' his Maſter ſhould bid the Speaker, and all the Houſe of Commons kiſs his — they durſt not ſend a Serjeant at Arms for him. The beaten Boy much netled at his Speech, laid down his money, as the other did. Now, ſaid the Boy, my Maſter is the King of <hi>France,</hi> and I am come
+<pb n="18" facs="tcp:46690:10"/>over with ſome of his Servants, to fetch Horſes out of <hi>England:</hi> Go bid thy Maſter, and the Houſe of Commons ſend a Serjeant at Arms to fetch him over.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>Before my Heart, is was a good Anſwer: I hope he won his Moneys.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>So he did; but it was put into a Waterman's Hands, and when it was demanded, ſays the Beaten Boy, Sirrah, give it him if you dare, if his Maſter be the King of <hi>France,</hi> I'll make you anſwer it before the Houſe of Commons. The Waterman durſt do no other but give either their own Moneys: There is no contending with Parliament Men, or Parliament Men's Men, nor Boys.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>And yet I know a Bayliff has nabbed ſeveral of them, and matters not a Straw to arreaſt any Member of the laſt Parlia<g ref="char:EOLhyphen"/>ment.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>That's nothing, they are now no Parliament-men; but let's ſee if that Stout Fellow dare nabb any of them when they are new choſen.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>That I don't know.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>O thoſe that are in any danger of Bayliffs, are mighty cunning at their Times, and know their Hits to a Minute; they appear abroad at <hi>London</hi> a certain Number of days before the Sit<g ref="char:EOLhyphen"/>ting of the Houſe, as ſure as Swallows againſt warm Weather; and after the Seſſions they are <hi>Preſto, begon,</hi> not one to be ſeen: except it be that we chance to carry them by Water from the Temple or <hi>White-Friars,</hi> to <hi>Scotland-Yard;</hi> they have a ſtrong Garriſon in either of thoſe Places out of Priviledge time, as they call it.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>Well, but pray thee <hi>Will.</hi> let us have it all out what they did.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>It is impoſſible as I told thee, For me to tell a quarter what they did; they ſtopped <hi>Iriſh, Scotch,</hi> and <hi>Welch</hi> Cattel from coming to the City, and Pork, Mutton, Veal and Lamb, from any of thoſe Places; and it was ſaid, if they had ſate long enough, they would have ſtopped <hi>Eſſex Calves,</hi> and <hi>Hampſhire Hogs.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>And yet the City ſtill doats upon theſe Parliaments.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>Nay, they would have made ſuch Laws about wearing of Cloth, and Woollen Stuffs, as would have beggared an hun<g ref="char:EOLhyphen"/>dred
+<pb n="19" facs="tcp:46690:10"/>thouſand Souls that are Silk-Weavers, Silk-Dyers, and ſuch like.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>What matter they, if they can but find a way to make Acts, to ſet their Grounds dearer, and rack their poor Tenants, they care not if half of the Kingdom ſtarve.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>And yet they talk ſo much for the General Good, and a<g ref="char:EOLhyphen"/>gainſt the abſolute Power of the King and the Court, how can they make this out?</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>They call that Power which they themſelves both do act by, and would govern all by, the Liberty of the Subject, tho' no Subject, but a few Members have any Liberty at all: But if his Majeſty, God bleſs him, ſhould act by the ſame Power, and do the ſame things which they do; then they call the very ſame Power flat down-right Tyranny.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>Do'ſt not thee remember, <hi>Will.</hi> one day the laſt Sum<g ref="char:EOLhyphen"/>mer, when our Barge lay againſt <hi>York</hi> Stairs, there was a great Noiſe about the Head Bayliff of <hi>Weſtminſter,</hi> breaking into an Embaſſenders Houſe, to ſeize upon ſome Goods which belonged to a Man was condemned to be Hanged at <hi>Tyburn;</hi> and upon Complaint of the Embaſſender to the King, the ſaid Bailiff was taken and clapt into the Tower; and every body ſaid, he would be hanged at the leaſt, for breaking the Common Law of all Na<g ref="char:EOLhyphen"/>tions: But the next News we heard, was, that he had got ſome ſort of a Warrant, was made by the Long Parliament, that ſet him at Liberty within three Hours after he was committed.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>I remember the time very well, they call thoſe Warrants <hi>Habeas Corpuſes,</hi> and they will fetch a Priſoner com<g ref="char:EOLhyphen"/>mitted by the King, out of any Goal in <hi>England;</hi> but not one Committed by the Houſe of Commons: And this they call Pri<g ref="char:EOLhyphen"/>viledge of Parliament.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>All theſe Gentlemen that were fetched up by Meſſengers and Serjeants, they might by the Common Law have choſen whether they would have come or not. There was a Knight in our County at <hi>Oxford,</hi> that was ſent for by a Meſſenger, and he told the Meſſenger, he had ſomething elſe to do, and would not come, and ſaid he would juſtifie it.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>Surely this was juſt about the time they were Diſſolv'd, otherwiſe he durſt not have been ſo bold.</p>
+               </sp>
+               <pb n="20" facs="tcp:46690:11"/>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>He ſaid he had been a Member himſelf many Years, and knew no Law to compell any Man to come before the Houſe of Commons, unleſs they had a mind themſelves; and therefore they ſent to the King, to get his Majeſty's Proclamation, to fetch him before them.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>So then His Majeſty's Proclamation, iſſued out at the deſire of the Commons, is of Force; but when ſent out by him<g ref="char:EOLhyphen"/>ſelf is worth nothing at all.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam,</speaker>
+                  <p>Why ſo?</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>Becauſe I remember there were ſeveral ſent for in Cu<g ref="char:EOLhyphen"/>ſtody, for obeying the King's Proclamation againſt Petitions, and brought to their Knees: If therefore that had been a good Pro<g ref="char:EOLhyphen"/>clamation, why ſhould any body have ſuffer'd for it? And for any thing I know, if his Majeſty ſhould have made a Proclamati<g ref="char:EOLhyphen"/>on to fetch up that Knight, or any body diſobeyed their Meſſen<g ref="char:EOLhyphen"/>ger, it had deſerved as much to have been diſobeyed as that a<g ref="char:EOLhyphen"/>bout Petitions, unleſs the Houſe of Commons can make a Procla<g ref="char:EOLhyphen"/>mation, contrary to Law, a good one, as this would have been: For, what need had they of the King's Proclamation, if there had been Law to have fetched thoſe men before them.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>Now if thoſe Men were fetched up, did dare to ſue, and the Lawyers did dare to do their Office, and the Judges did dare to give Judgment, I am of Opinion they might bring Acti<g ref="char:EOLhyphen"/>ons of falſe Impriſonment againſt the Meſſengers that fetched them up: For if they had not full Power to puniſh thoſe who did not obey them, then ſurely thoſe who were fetched had wrong done them.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>But I dare aſſure thee, neither Lawyer nor Judge dare meddle with any ſuch matter: If any of theſe Gentlemen would be ſo venterſome, they will find no Law to ſtand againſt the Votes of the Commons, till they find they are as much brought under, as they ſay <hi>Harry the Eighth</hi> brought them; they durſt not prate in his Days, as now they do.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>What did he do?</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>I have heard a Fellow of <hi>Maudlin Colledge,</hi> ſay, he tumbled them, and made them do what he would himſelf, and not what they had a mind to; and not a word of Tyranny or Arbitrary Power.</p>
+               </sp>
+               <pb n="21" facs="tcp:46690:11"/>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>But pray thee <hi>Will.</hi> ſome more of their Doings.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>I have told thee it is without end; and therefore I will tell thee the laſt thing they did, which was, they Voted, that if any man adviſed his Majeſty to Prorogue them upon any Ac<g ref="char:EOLhyphen"/>count but to diſinherit the Duke, he was an Enemy to the King and Kingdom: Nay, he was a Penſioner to the <hi>French</hi> King.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>What, whether he ever received any Money from the <hi>French</hi> King or not?</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>Ay, though he never received Penny of Mony from him, or any body elſe by his means or order.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>For any thing I know, they might as well have ſaid, that he had been my Lord Mayor's Bull-rider: I have often heard ſay, that a Parliament can make a Man into a Woman; and now I ſee, they can make a man into a Penſioner of <hi>France</hi> tho' he be none.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>What then was done?</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>That very day, notwithſtanding all this, they were Pro<g ref="char:EOLhyphen"/>rogued.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>Then ſurely, they will ſay, either they were Prorogued by the Advice of ſome Body, who, for that Advice, are Penſio<g ref="char:EOLhyphen"/>ners; or if his Majeſty Prorogued them on his ovvn Head, then they vvill think, tho' they dare not ſay, that he himſelf is a Pen<g ref="char:EOLhyphen"/>ſioner.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>And vvithin fevv days after they vvere Diſſolved, and a<g ref="char:EOLhyphen"/>ther order'd to be called at your Tovvn of <hi>Oxford.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>Well, for all that <hi>Sam</hi>'s Parſon ſaid, There vvas a Par<g ref="char:EOLhyphen"/>liament called at <hi>Oxford,</hi> that vvas called the mad Parliament, yet vvill I be hang'd, if ever that vvas half ſo mad as this thou haſt told us of: For according to thy Tale, this Parliament let nothing 'ſcape them; to his Majeſty they vvould have given no<g ref="char:EOLhyphen"/>thing, nor let any body lend him any thing; but vvould get from him vvhat they could: From the Duke they vvould have taken his Birth-right; the Church and Religion they vvould have caſt in a nevv Mould; the Biſhops and Clerks, they vvould have nevv-faſhioned, if not utterly laid aſide, baniſhed many of the Nobles, taught the Judges of <hi>Weſtminſter-Hall</hi> nevv Lavvs, and made them pay for practiſing the Old, terrified moſt of the Loyal Gentry of the Kingdom, vvith Serjeants, Meſſengers, and
+<pb n="22" facs="tcp:46690:12"/>Expenſive Journeys, the ſame with Mayors, Sheriffs and Bayliffs, Fault or no Fault, taken away Courts and Priviledges from ſeve<g ref="char:EOLhyphen"/>ral Shires, to their great harm, to revenge themſelves of particu<g ref="char:EOLhyphen"/>lar men; not only hinder'd <hi>Iriſh</hi> Cattel, and other Proviſions, from the City, but Beggar'd many thouſands of Families of Silk-Weavers, and other poor Handicrafts-men.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>Nay, theſe very Men were got to that Height, they would have abuſed any Body they met with, Gentle or Simple, not paid a Farthing for croſſing the Ferry, but ſaid, they were <hi>Franke</hi> in Parliament-time, as their Maſters Letters were at the Poſt-houſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>Was not this then as mad a Parliament, as that Parlia<g ref="char:EOLhyphen"/>ment they talk on at our Town? If this next prove a mad<g ref="char:EOLhyphen"/>der than the laſt, if it ſit at our Town, I'll give any man leave to hang me at the Maſt of my Barge.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>For all this, I believe they will not ſit at <hi>Oxford:</hi> for they ſay, a many Noblemen have Petitioned the King's Majeſty againſt it.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>And I can tell thee, his Majeſty ſaid, they ſhould Sit at <hi>Oxford</hi> for all that.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>Pray thee, who were theſe Noblemen that Petiti<g ref="char:EOLhyphen"/>oned?</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>I cannot tell thee who they were by their Names; but he that was the Rump's firſt General delivered it.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>He! thou art a Fool <hi>Will.</hi> he is dead at leaſt thirty years ſince: I remember I have ſeen him, as if he had been alive, in a Buff Coat, amongſt the Tombs at <hi>Weſtminſter.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>Well, I am ſure he bears the ſame Name, and probably it may be his Son; for this man follows that man's Steps: Then there was him that was General of the Horſe to the Rump, that I am ſure is the very Man himſelf, and another Lord that ſate in the Rump Houſe of Commons, with a Blew Garter about him, a thing was never done before.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>That cannot be, I remember that Lord my ſelf, he is dead, I am confident.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>It may be then it was his Son; there was beſides another, whoſe Father ſome ſay Beheaded the King; but if he did not, 'tis certain he was in Diſguiſe on the Scaffold: And then he that ſet
+<pb n="23" facs="tcp:46690:12"/>them on all this, as it is talked, is a little, lame, purblind Lord, that has been a Man in all the Times ever ſince the firſt Rebellion, and ſtill turned time enough to ſave himſelf, though others were Hang<g ref="char:EOLhyphen"/>ed for the ſame Fact: He now ſets them upon all the Miſchiefs done, and if he live to it, will leave them in the Lurch.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>That's Old uſual with him, and yet he's no better than thoſe that ſtood it out to the laſt, and deſerved Hemp many a fair Year ſince.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>He'll come to it yet; for all his Cunning, the Devil will cozen him at laſt: All the reſt were Covenanters, or their Sons, except one or two diſguiſed Lords.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>I hope his Majeſty will remember what theſe men did with his Father, and not be adviſed by any ſuch.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>Well, when all this is ſaid, I am ſtill of Opinion <hi>Lon<g ref="char:EOLhyphen"/>don</hi> is the fitteſt place in the Kingdom for a Parliament; for there every Body finds their Conveniency: His Majeſty his Houſe at <hi>Whitehall,</hi> the Nobles their own Houſes, the Members conve<g ref="char:EOLhyphen"/>venient Accommodation of Lodging, and every Body their Eaſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>I queſtion whether too much Conveniency for Par<g ref="char:EOLhyphen"/>liaments be not hurtful to Buſineſs: For when they are leſs com<g ref="char:EOLhyphen"/>modiouſly ſerved, they will mind their Buſineſs the better, and make more haſte with their Work, that they may get ſo much ſooner home: Not but that I know, they may have all Conve<g ref="char:EOLhyphen"/>niencies at our Town, and ſufficient Accommodation for all the Followers of a Parliament that are requiſite to attend it.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>The plain truth is, there are now-a-days abundance of People do follow Parliaments, over what there uſed to be in for<g ref="char:EOLhyphen"/>mer Times, as I have heard People ſay: And this <hi>London</hi> has ſuch New Buildings, that it lodges them all conveniently, if they were five times as many.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>Thou art in the right of it <hi>Will.</hi> that there does more People follow the Parliaments a late time, than formerly, that is, the Scoundrel Rabble of <hi>London,</hi> who are ready, and have been this Forty Years to back any Seditious Petition; and to come down to <hi>Weſtminſter</hi> and <hi>Whitehall,</hi> like a Land-flood in our Ri<g ref="char:EOLhyphen"/>ver, that threatens all the Countrey: Theſe encouraged by Diſ<g ref="char:EOLhyphen"/>contented Members, when they cannot get the Lords to joyn in their
+<pb n="24" facs="tcp:46690:13"/>malitious Acts, threaten no leſs now, than they did to his Maje<g ref="char:EOLhyphen"/>ſty's Father, God bleſs him: And I think it no great loſs if theſe Gentlemen be left at Home to mind their Trades at <hi>London.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>But the Scholars of <hi>Oxford,</hi> are thought, by many, will be as unmannerly as the Prentices in <hi>London.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>I'll tell thee <hi>Sam.</hi> if the Parliament will behave them<g ref="char:EOLhyphen"/>ſelves as they ought, to the King's Majeſty, and the Royal Line, and offer no Injury to the Church, Biſhops, Clergy, Univerſity, nor Scholars, and give the King his reaſonable Requeſts, I'll warrant thee, the Scholars will be as civil as can be; but by my Faith, if they find either the Church, or themſelves touched upon, it will be a hard matter to rule them: They are like Sea<g ref="char:EOLhyphen"/>men, one and all.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>Still I am for Old <hi>London,</hi> thou knoweſt the King has borrowed many Hundred Thouſand Pounds of the City and the <hi>Eaſt-India</hi> Company, and never needed to want Moneys for a fair word to the City.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>It's very true; but he always paid double Intereſt for what he had of them: So that it was a greater Courteſie to the City, to lend it, than to the King to have the Loan. But now that Buſineſs is over, they will lend no more Money, but upon Parlia<g ref="char:EOLhyphen"/>ment-Security: Had they continued to have been the ſame City they were in 1660, and ſome Years after, I believ the King would never have removed the Parliament to <hi>Oxford;</hi> but ſince they now are become that City they were in 1640. I think the King does wiſer to remove the Parliament to <hi>Oxford,</hi> that True, Loyal Ci<g ref="char:EOLhyphen"/>ty, where every man loves the Name of the King, and that ſhew<g ref="char:EOLhyphen"/>ed ſo much Fidelity to his Father: Then let the Parliament and the Factious City of <hi>London</hi> ſend him to <hi>Oxford</hi> as they did his Father.</p>
+               </sp>
+               <sp>
+                  <speaker>VVill.</speaker>
+                  <p>Then let us all go to <hi>Oxford,</hi> and pray for the good Suc<g ref="char:EOLhyphen"/>ceſs of this Parliament.</p>
+               </sp>
+            </div>
+            <div n="2" type="dialogue">
+               <pb n="25" facs="tcp:46690:13"/>
+               <head>A SECOND DISCOURSE BETWIXT <hi>Sam.</hi> The Ferryman of <hi>Dochet, Will.</hi> The Waterman of <hi>London,</hi> AND <hi>Tom.</hi> The Bargeman of <hi>Oxford;</hi> Upon the Coming of the Two Laſt down the River, from <hi>OXFORD.</hi>
+               </head>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>HOW does all our Friends at the Court at <hi>Ox<g ref="char:EOLhyphen"/>ford?</hi> 'Tis ſtrange, <hi>Will.</hi> thou ſhouldſt come a<g ref="char:EOLhyphen"/>gain ſo ſoon!</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>Thou knoweſt, I told thee, I moſtly follow the Court; and 'faith, at this time, he had been a cun<g ref="char:EOLhyphen"/>ning man that had gone before it; his Majeſty gave not ſo good warning of his Return to <hi>London,</hi> as he did of his going to <hi>Oxford.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>But what ſays <hi>Tom.</hi> now to his mad Parliament? I hope he has no reaſon to complain of this Parliament.</p>
+               </sp>
+               <pb n="26" facs="tcp:46690:14"/>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>But the Town of <hi>Oxford</hi> will have reaſon to complain while they live: But the beſt op't is, ſome <hi>Londoners</hi> will have Houſes to ſet in <hi>Oxford,</hi> at as good Rates as they took them: Had his Majeſty made a Cocking, or a Hunting-Match at <hi>Oxford,</hi> he had done it a better Turn, than to have brought ſuch Gueſts as theſe were.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>I heard ſome ſay, they were ſo mad they were called from <hi>London,</hi> that they reſolved to do ſomething at <hi>Oxford,</hi> ſhould make them be ſuddainly ſent away again; and ſo bilk the Town of their Expectation.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>They ſay the Town much matter'd not the Court, and the Mayor, and the Aldermen of <hi>Oxford,</hi> were as much againſt it as the Common Council is at <hi>London.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>O, that is becauſe the Univerſity is ſo much for the King, God Bleſs him, and his Houſhold: For this is a certain Rule, if the Univerſity be for the Court, the Town will be for the Country, as they call it: Nay, if the Univerſity be for Je<g ref="char:EOLhyphen"/>ſus Chriſt, the Town holds themſelves obliged in Conſcience to be for the Devil.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>But ſtill <hi>Tom.</hi> this does not anſwer what thou ſaid'ſt of this Parliament, which thou would'ſt a warrant would do ſuch brave things, if they ſate at <hi>Oxford.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>I muſt confeſs I was miſtaken, as my Father was before me: For he took once a <hi>London</hi> Boy to be his Prentice; and tho' he knew him to be a little light-finger'd, and given to Ly<g ref="char:EOLhyphen"/>ing and Swearing, yet he hoped if he could get him to <hi>Oxford,</hi> he could cure him; and took infinite Care and Pains about him, and daily told him what would be the end of him, if he would not lay aſide his <hi>London</hi> Tricks, and become a down-right, ho<g ref="char:EOLhyphen"/>neſt <hi>Oxford</hi> Bargeman; but all in vain, what was bred in the Bone, would never out of the Fleſh: He fell by little and little, to down-right Thieving, and Hang'd he was in the End; and as my Father afterwards learned, the Rogue's Father and Grand-fa<g ref="char:EOLhyphen"/>ther, and many of his Kindred had been Thieves before him.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>What's all this to the Purpoſe, what have either we or the Parliament to do with thy Father or his Thieviſh Prentice? He was not the firſt Bargeman by a hundred, that have been Hang'd.</p>
+               </sp>
+               <pb n="27" facs="tcp:46690:14"/>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>Well ſaid <hi>Will.</hi> here's a precious Story indeed, and no<g ref="char:EOLhyphen"/>thing to the Purpoſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>You don't know the meaning, I perceive, of a Parable, or an <hi>Aeſop's Fable;</hi> when ye have taught theſe Shavers at <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> with your Rehearſals, and at <hi>Weſtminſter,</hi> with their Votes, Reſolves and Stories, to noſe their Maſter, and abuſe their Fel<g ref="char:EOLhyphen"/>lows, then you ſend 'em down to <hi>Oxford,</hi> to be cured of the R— When 'tis too late they are no more be reclaimed than a Sheep-Worrier; nor will any thing cure them, but that which cured my Father's Prentice: Now there's the precious Story you talked of ſo much. And yet for all this, you cannot daſh us in the Teeth with any <hi>Oxford</hi> Acts of Parliament: Had their No<g ref="char:EOLhyphen"/>ſes been kept to the Grindle-ſtone as cloſe at <hi>Weſtminſter,</hi> as it was at <hi>Oxford,</hi> they would not have been ſo high in the In ſtep. I was ſure, if they ſate at <hi>Oxford,</hi> they muſt either make good Acts, or none at all.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>A will have it one way or other; theſe <hi>Oxford</hi> Rogues learn to wrangle of the Boys, and will never yield Right or Wrong.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>Well, but for all his Bragging, there was that done at this Parliament at <hi>Oxford,</hi> was never done at <hi>Weſtminſter.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>Pray thee what was that?</p>
+               </sp>
+               <sp>
+                  <speaker>VVill.</speaker>
+                  <p>There was as near a Lye, not to be the down-right Lye, given to the King, as Heart could think.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>How ſo man?</p>
+               </sp>
+               <sp>
+                  <speaker>VVill.</speaker>
+                  <p>I'll tell thee, for Example ſake, If I ſhould ſay, it is an un<g ref="char:EOLhyphen"/>warrantable thing for any man to pull down <hi>Windſor</hi> great Park Pail, and ride through to <hi>Bagſhot</hi> Market, if thou ſayeſt this is a warrantable Trick, tho' all the World knew the contrary, do'ſt not thee come very near to give me the Lye, what thinkeſt thou by this?</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>Surely he that did this, had his Breeding at <hi>Billingſgate,</hi> or at <hi>Hog Norton.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>But if he had a foul Tongue, he had a good pair of Heels, for he gave Ground a Hundred miles, in a very few Hours.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>That was but to be out of the way while the thing was hot, it will quickly be forgot I'll warrant thee, once in a ſhort time, I ſhall ſee this very man come in his Coach to <hi>Weſtminſter
+<pb n="28" facs="tcp:46690:15"/>Hall,</hi> with a Quoif on, if not a Red Gown. Such mannerly Behavior as this, has been an only way to Preferment.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>But I think he better deſerves to go up <hi>Holborn</hi> in a Wooden Chariot, and have a Horſe Night-Cap put on at the farther end.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>Theſe kind of People do no more matter what they ſay, than a Dog does that has ſtolen a joint of meat from the Cook: they only run away for a while, and when they think all's quiet and forgotten, then they come again with as much Confidence, as if they had never done no miſchief at all.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>The reaſon of this is, becauſe they never light of the Whip for their Roguery, and ſo ſcaping Scot-free, makes them ſo bold.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>Ay, Ay, let a man ſuffer a Prentice to prate and talk, and the next, he gives you two words for one; and then, if you offer to correct him, have at your Ears, Black <hi>Tom.</hi> of <hi>Lambath,</hi> that was an honeſt, good Fellow, as ever took an Oar by the end, ſuffered his Prentice ſo long, that when he would have cor<g ref="char:EOLhyphen"/>rected him, it was too late; and being a luſty young Rogue, he threw him o're Board into the <hi>Thames;</hi> and had not I come by, by chance, he had been drown'd.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>Nay, nothing madded me ſo much, as that the Houſe of Commons praiſed this Fellow, and order'd him Thanks for his Complement he made.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>O brave <hi>Oxford</hi> ſtill; for at <hi>Weſtminſter,</hi> they always uſed to have ſo much good manners, as to give his Majeſty Thanks for his Speech, whether it pleaſed them or not; and now they thank a man that gives him the Lye.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>But pray, my Maſters, what did they do that little time they ſate; or, at leaſt-wiſe what would they have done?</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>I'll tell thee, thou ſayeſt, the Parſon told thee of a Par<g ref="char:EOLhyphen"/>liament once at <hi>Oxford,</hi> was called the <hi>Mad Parliament;</hi> I think this may be called the <hi>Fooliſh</hi> and <hi>K—viſh</hi> Parliament: They were in hand to make ſuch a King of the Duke, if he ſhould have Survived his Brother, as thou never heard'ſt of in thy life.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>A King, why, the <hi>Portingals</hi> King, that they keep a Cloſe Priſoner, in an Old Caſtle, at the Rock of <hi>Lisbon,</hi> is an
+<pb n="29" facs="tcp:46690:15"/>Emperor in Compariſon of that they would have made him: A muſt have had the Name of a King, but none of the Power; nor have lived in any of his Dominions, or within 500 Miles. Would not this have been a brave King?</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>Pray thee tell me, what have they to do with <hi>Scotland?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>With <hi>Scotland?</hi> O, they make a good Title to <hi>Scotland:</hi> For <hi>Oliver</hi> Conquer'd it for the <hi>Rump,</hi> and theſe being the <hi>Rump's</hi> Heirs, they think <hi>Scotland</hi> belongs to them as well as <hi>England:</hi> For as ſure as thou ſtands there, they keep the Commonwealth's Title a Foot in their minds, though they dare not publickly own it.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>How ſhould that be?</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>I'll tell thee, if I have a Crown in my Pocket, and thou haſt a mind to have it from me, there is but three ways to get it, either by Slight of Hand, to pick it from me, or by words, to perſuade me out of it, or take it from me by Strong Hand. Now the firſt and laſt not being ſo convenient nor eaſy: if thou canſt uſe Words to make me give it thee, is not that the beſt way?</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>No doubt of it <hi>Tom.</hi> then Words have prevailed a great way, and will poſſibly be attempted farther; but if thoſe will not do, thou knowſt what follows next: Beſides, it is apparent, they aimed now to make a Puſh for a Commonwealth: For they affronted the King in the firſt place, as I have told you; then in the next place, they Voted the Lords Denial to Try <hi>Fitz-Harris,</hi> was a Denial of Juſtice, and Hinderance of Diſcovering of the Popiſh Plot, and twenty Stories more they called it; which was as much as to ſay, they were not fit to ſit in that Houſe: For if they were unjuſt in their Doings, and countenanced the Popiſh Plot, what worſe could have been ſaid of them? And if this had taken, at the next Vote they had been uſeleſs, and then welcome the <hi>Rump</hi> again; they would only have wanted him that was Headed at Tower hill Twenty Years ago, what did you call him?</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>I believe thou meaneſt Sir <hi>Har. Vain.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>Ay, Ay, that was he, if he had been alive to have joyn<g ref="char:EOLhyphen"/>ed with the Purblind Lord, and the Colonell with Cut Fingers, and a few more, all had been right.</p>
+               </sp>
+               <pb n="30" facs="tcp:46690:16"/>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>Pray thee <hi>Tom.</hi> what would they have done with this <hi>Fitz-Harris,</hi> what is that Fellow?</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>'Faith, I think no Body knows what he is; but I take him to be a Croſs-Biter; but if he chance to be Hanged, as he is like to be, it is doubtful he will be Croſs-bitten himſelf.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>Why the Parliament were Bloody mad at him, and would needs have Hanged him themſelves.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>O <hi>Sam.</hi> thou knoweſt not Parliament-Craft, the next way Home, ſometimes is the fartheſt about: If they could have gotten the Lords to have received the Impeachment againſt him, they would have kept him alive, and played more Tricks than thou can imagine; they would have made him Bowl off and on, as thou doeſt at Nine pins; and made his Evidence good and right in what they had a mind; and errand Lyes in what they liked not: And he had been as far from Hanging by their means, as the Lords in the Tower; only they would poſſibly have found Law to have Bailed him; which could not be found for the Treaſurer <hi>Danby,</hi> whom they know they have no power to Hang, unleſs they do with him, as with the Old Earl of <hi>Strafford.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>But for all their Cunning he may yet come to be Hang<g ref="char:EOLhyphen"/>ed; and if he be, ſtand clear, I believe there will be Stories told, ſome will not be willing to hear.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>Before my Heart, you two are gotten very cunning at State Affairs, I believe you did nothing but liſten and hearken after News.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>If the Parliament had ſate at our Town a Twelvemonth, I would not have wrought in my Barge an Hour; but if ever Parliament deſerved a By-Name, this little <hi>Short Ars'd</hi> one, de<g ref="char:EOLhyphen"/>ſerved that I have given it, both for medling with what they did ſo ſimply, and medling with thoſe People and Places out of their Power.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>Well, but now this Parliament is Diſſolved, all this is over, and now they have power to Vote, nor Act, nor nothing; neither and I hope we ſhall have Quietneſs, and the Court at <hi>Windſor.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>It's true, they are unrooſted from their Publick Sitting Places, both at <hi>Weſtminſter</hi> and <hi>Oxford;</hi> but the Men that ſhape out all the Work are not idle; that will appear e're long in the
+<pb n="31" facs="tcp:46690:16"/>
+                     <hi>Common Hall</hi> of <hi>London,</hi> and from other places where they have Power to ſet Miſchief on Foot.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>I remember Gaffer <hi>Tompſon</hi> of <hi>Abbington,</hi> had a Dozen Men and Boys that laboured his Barge; and to his Coſt, he found they were all plotted together to Rob, Steal, and do him any Miſchief they could: Nay, would almoſt tell him to his Face, they would have what they liſt: He was a Quiet, Honeſt Man, and loved not Trouble, and hoped, in vain, for Amendment a long time; but at laſt, he took a Reſolution, and turned them all off at once, and got a New Floor full, that knew nothing of the Ro<g ref="char:EOLhyphen"/>guery of the other Crew; and then all things went well with him.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>He was in the Right of that: For if he had left any of the Old ones in the Barge, they would have corrupted all the reſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>Do'ſt not think, there are ſome Old <hi>Rumpers</hi> has done a great hurt amongſt the Members?</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>I am for a New Floor full, or none at all; there's no Hopes of any Good from <hi>Tompſon</hi>'s Old Crew.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>Gaffer <hi>Tompſon</hi> had a ſpecial Care, not only to keep his New men from companying with the Old Ones at <hi>London</hi> and at <hi>Abbington;</hi> but alſo, that they ſhould not come and Rob him by Strong Hand.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>They durſt hardly do that; for then it had come to <hi>Hangum tuum:</hi> However it was Wiſdom in him to have an Eye to them: For they met often together, to conſult which way to be revenged of him; and however he knew the Laws of the Land would protect him, vvhich muſt protect every Body.</p>
+               </sp>
+               <sp>
+                  <speaker>Sam.</speaker>
+                  <p>I pray <hi>God Bleſs His Majeſty,</hi> and give him Povver to put his Lavvs in Execution; and then, I think, none but his Ene<g ref="char:EOLhyphen"/>mies vvill have occaſion to repine; and let the Disbanded Refor<g ref="char:EOLhyphen"/>madoes do what they dare. <hi>Amen.</hi>
+                  </p>
+               </sp>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
